@@ -1,0 +1,6 @@
+Midterm review
+
+binary tree traversal
+pre-order: Root-Left-Right
+in-order: Left-Root-Right
+post-order: Left-Right-Root
