@@ -4,3 +4,5 @@ binary tree traversal
 pre-order: Root-Left-Right
 in-order: Left-Root-Right
 post-order: Left-Right-Root
+
+例子：http://blog.csdn.net/fansongy/article/details/6798278
